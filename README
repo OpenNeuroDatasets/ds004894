@@ -45,12 +45,12 @@ https://doi.org/10.6084/m9.figshare.24874173
 
 The dataset includes TSV files for each participant, providing detailed trial information.
 
--onset: Time of the event onset, relative to the start of the scan, in seconds.
--duration: Duration of the event, in seconds.
--trial: Trial number.
--event: Type of event (either 'Music' for music listening or 'Rating' for emotional response rating).
--music_type: Type of music stimulus (tonal, atonal, discord).
--valence_rating: Emotional response strength to the music.
+- **onset**: Time of the event onset, relative to the start of the scan, in seconds.
+- **duration**: Duration of the event, in seconds.
+- **trial**: Trial number.
+- **event**: Type of event (either 'Music' for music listening or 'Rating' for emotional response rating).
+- **music_type**: Type of music stimulus (tonal, atonal, discord).
+- **valence_rating**: Emotional response strength to the music.
 
 ## Access to the Data
 
