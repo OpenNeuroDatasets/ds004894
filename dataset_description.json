@@ -1,7 +1,7 @@
 {
     "Name": "Heart rate and insula activity increase in response to music in individuals with high interoceptive sensitivity",
     "BIDSVersion": "v1.8.0",
-    "License": "CC BY",
+    "License": "CC0",
     "Authors": [
         "Toru Maekawa",
         "Takafumi Sasaoka",
@@ -19,6 +19,8 @@
     "ReferencesAndLinks": [
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "",
+    "EthicsApprovals": [
+        "The study was approved by the research ethics committee of Hiroshima University (approval number: E-965)."
+    ]
 }
-
